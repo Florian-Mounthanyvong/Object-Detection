@@ -1,0 +1,5363 @@
+{
+	"baguettes0296_jpg.rf.0f74c7e3a476bfe54dd31608cbb9b0f4.jpg31525": {
+		"filename": "baguettes0296_jpg.rf.0f74c7e3a476bfe54dd31608cbb9b0f4.jpg",
+		"size": 31525,
+		"regions": [],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0299_jpg.rf.8abf9952916c96895a76ebe5c9142816.jpg17973": {
+		"filename": "baguettes0299_jpg.rf.8abf9952916c96895a76ebe5c9142816.jpg",
+		"size": 17973,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						128,
+						355,
+						397,
+						352,
+						277,
+						97,
+						33,
+						26,
+						35,
+						66,
+						133
+					],
+					"all_points_y": [
+						287,
+						211,
+						157,
+						110,
+						102,
+						152,
+						205,
+						242,
+						273,
+						286,
+						286
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						128,
+						355,
+						397,
+						352,
+						277,
+						97,
+						33,
+						26,
+						35,
+						66,
+						133
+					],
+					"all_points_y": [
+						287,
+						211,
+						157,
+						110,
+						102,
+						152,
+						205,
+						242,
+						273,
+						286,
+						286
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0301_jpg.rf.ce08832f48d3898a4df41d67e627feeb.jpg28580": {
+		"filename": "baguettes0301_jpg.rf.ce08832f48d3898a4df41d67e627feeb.jpg",
+		"size": 28580,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						1,
+						193,
+						225,
+						223,
+						195,
+						170,
+						161,
+						145,
+						129,
+						114,
+						103,
+						73,
+						53,
+						33,
+						0,
+						1
+					],
+					"all_points_y": [
+						245,
+						243,
+						217,
+						205,
+						175,
+						177,
+						188,
+						188,
+						180,
+						182,
+						190,
+						190,
+						184,
+						192,
+						196,
+						244
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						0,
+						82,
+						250,
+						309,
+						366,
+						321,
+						295,
+						211,
+						165,
+						31,
+						1,
+						0
+					],
+					"all_points_y": [
+						338,
+						356,
+						350,
+						344,
+						303,
+						298,
+						282,
+						280,
+						267,
+						274,
+						292,
+						338
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						1,
+						193,
+						225,
+						223,
+						195,
+						170,
+						161,
+						145,
+						129,
+						114,
+						103,
+						73,
+						53,
+						33,
+						0,
+						1
+					],
+					"all_points_y": [
+						245,
+						243,
+						217,
+						205,
+						175,
+						177,
+						188,
+						188,
+						180,
+						182,
+						190,
+						190,
+						184,
+						192,
+						196,
+						244
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						0,
+						82,
+						250,
+						309,
+						366,
+						321,
+						295,
+						211,
+						165,
+						31,
+						1,
+						0
+					],
+					"all_points_y": [
+						338,
+						356,
+						350,
+						344,
+						303,
+						298,
+						282,
+						280,
+						267,
+						274,
+						292,
+						338
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0302_jpg.rf.c9e97e5d0ec3377ad801925f5eb66bf3.jpg32040": {
+		"filename": "baguettes0302_jpg.rf.c9e97e5d0ec3377ad801925f5eb66bf3.jpg",
+		"size": 32040,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						116,
+						155,
+						180,
+						225,
+						256,
+						279,
+						287,
+						199,
+						137,
+						117
+					],
+					"all_points_y": [
+						39,
+						245,
+						340,
+						388,
+						386,
+						355,
+						292,
+						32,
+						18,
+						36
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						1,
+						133,
+						289,
+						289,
+						258,
+						223,
+						55,
+						0,
+						1
+					],
+					"all_points_y": [
+						336,
+						245,
+						104,
+						93,
+						77,
+						86,
+						190,
+						234,
+						336
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						116,
+						155,
+						180,
+						225,
+						256,
+						279,
+						287,
+						199,
+						137,
+						117
+					],
+					"all_points_y": [
+						39,
+						245,
+						340,
+						388,
+						386,
+						355,
+						292,
+						32,
+						18,
+						36
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						1,
+						133,
+						289,
+						289,
+						258,
+						223,
+						55,
+						0,
+						1
+					],
+					"all_points_y": [
+						336,
+						245,
+						104,
+						93,
+						77,
+						86,
+						190,
+						234,
+						336
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0307_jpg.rf.67176157ac592beaa3f0f86390d62398.jpg9945": {
+		"filename": "baguettes0307_jpg.rf.67176157ac592beaa3f0f86390d62398.jpg",
+		"size": 9945,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						177,
+						180,
+						203,
+						237,
+						237,
+						208,
+						185,
+						176
+					],
+					"all_points_y": [
+						336,
+						61,
+						47,
+						68,
+						373,
+						388,
+						370,
+						331
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						177,
+						180,
+						203,
+						237,
+						237,
+						208,
+						185,
+						176
+					],
+					"all_points_y": [
+						336,
+						61,
+						47,
+						68,
+						373,
+						388,
+						370,
+						331
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0316_jpg.rf.4e2844cb4afc7fe2fc1f1d95b5f1f7a2.jpg36953": {
+		"filename": "baguettes0316_jpg.rf.4e2844cb4afc7fe2fc1f1d95b5f1f7a2.jpg",
+		"size": 36953,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						1,
+						295,
+						415,
+						415,
+						173,
+						1,
+						1
+					],
+					"all_points_y": [
+						82,
+						415,
+						415,
+						272,
+						0,
+						2,
+						84
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						1,
+						128,
+						292,
+						107,
+						1,
+						1
+					],
+					"all_points_y": [
+						389,
+						353,
+						2,
+						2,
+						204,
+						390
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						391,
+						138,
+						137,
+						412,
+						415,
+						391
+					],
+					"all_points_y": [
+						0,
+						381,
+						416,
+						413,
+						2,
+						0
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						1,
+						295,
+						415,
+						415,
+						173,
+						1,
+						1
+					],
+					"all_points_y": [
+						82,
+						415,
+						415,
+						272,
+						0,
+						2,
+						84
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						1,
+						128,
+						292,
+						107,
+						1,
+						1
+					],
+					"all_points_y": [
+						389,
+						353,
+						2,
+						2,
+						204,
+						390
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						391,
+						138,
+						137,
+						412,
+						415,
+						391
+					],
+					"all_points_y": [
+						0,
+						381,
+						416,
+						413,
+						2,
+						0
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0318_jpg.rf.6f10732a1e9afcfb466ce713968e08c6.jpg23699": {
+		"filename": "baguettes0318_jpg.rf.6f10732a1e9afcfb466ce713968e08c6.jpg",
+		"size": 23699,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						92,
+						33,
+						1,
+						2,
+						91
+					],
+					"all_points_y": [
+						410,
+						49,
+						32,
+						412,
+						410
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						213,
+						123,
+						83,
+						49,
+						33,
+						99,
+						212,
+						212
+					],
+					"all_points_y": [
+						409,
+						64,
+						10,
+						13,
+						49,
+						413,
+						413,
+						407
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						405,
+						143,
+						205,
+						247,
+						411,
+						403
+					],
+					"all_points_y": [
+						402,
+						134,
+						365,
+						414,
+						413,
+						401
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						415,
+						190,
+						147,
+						125,
+						142,
+						413,
+						414
+					],
+					"all_points_y": [
+						255,
+						48,
+						28,
+						61,
+						137,
+						407,
+						253
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						413,
+						261,
+						163,
+						189,
+						413,
+						415
+					],
+					"all_points_y": [
+						128,
+						0,
+						1,
+						48,
+						254,
+						128
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						92,
+						33,
+						1,
+						2,
+						91
+					],
+					"all_points_y": [
+						410,
+						49,
+						32,
+						412,
+						410
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						213,
+						123,
+						83,
+						49,
+						33,
+						99,
+						212,
+						212
+					],
+					"all_points_y": [
+						409,
+						64,
+						10,
+						13,
+						49,
+						413,
+						413,
+						407
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						405,
+						143,
+						205,
+						247,
+						411,
+						403
+					],
+					"all_points_y": [
+						402,
+						134,
+						365,
+						414,
+						413,
+						401
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						415,
+						190,
+						147,
+						125,
+						142,
+						413,
+						414
+					],
+					"all_points_y": [
+						255,
+						48,
+						28,
+						61,
+						137,
+						407,
+						253
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						413,
+						261,
+						163,
+						189,
+						413,
+						415
+					],
+					"all_points_y": [
+						128,
+						0,
+						1,
+						48,
+						254,
+						128
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0325_jpg.rf.4ac382cee9c09a8a047725f305830f5d.jpg22441": {
+		"filename": "baguettes0325_jpg.rf.4ac382cee9c09a8a047725f305830f5d.jpg",
+		"size": 22441,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						153,
+						55,
+						0,
+						0,
+						19,
+						53,
+						309,
+						327,
+						152
+					],
+					"all_points_y": [
+						410,
+						266,
+						153,
+						95,
+						82,
+						98,
+						346,
+						413,
+						411
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						413,
+						331,
+						139,
+						106,
+						97,
+						183,
+						374,
+						415,
+						413
+					],
+					"all_points_y": [
+						242,
+						230,
+						76,
+						84,
+						118,
+						242,
+						415,
+						414,
+						240
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						409,
+						240,
+						191,
+						176,
+						330,
+						413,
+						409
+					],
+					"all_points_y": [
+						176,
+						76,
+						71,
+						106,
+						231,
+						242,
+						173
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						411,
+						276,
+						246,
+						239,
+						408,
+						411
+					],
+					"all_points_y": [
+						120,
+						57,
+						59,
+						78,
+						175,
+						120
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						61,
+						132,
+						157,
+						157,
+						93,
+						64,
+						59
+					],
+					"all_points_y": [
+						8,
+						76,
+						75,
+						43,
+						0,
+						3,
+						8
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						188,
+						95,
+						163,
+						201,
+						198,
+						186
+					],
+					"all_points_y": [
+						62,
+						2,
+						1,
+						23,
+						66,
+						63
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						18,
+						31,
+						1,
+						1,
+						17
+					],
+					"all_points_y": [
+						69,
+						53,
+						10,
+						66,
+						69
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						77,
+						74,
+						41,
+						0,
+						1,
+						42,
+						77
+					],
+					"all_points_y": [
+						66,
+						37,
+						1,
+						2,
+						10,
+						66,
+						66
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						153,
+						55,
+						0,
+						0,
+						19,
+						53,
+						309,
+						327,
+						152
+					],
+					"all_points_y": [
+						410,
+						266,
+						153,
+						95,
+						82,
+						98,
+						346,
+						413,
+						411
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						413,
+						331,
+						139,
+						106,
+						97,
+						183,
+						374,
+						415,
+						413
+					],
+					"all_points_y": [
+						242,
+						230,
+						76,
+						84,
+						118,
+						242,
+						415,
+						414,
+						240
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						409,
+						240,
+						191,
+						176,
+						330,
+						413,
+						409
+					],
+					"all_points_y": [
+						176,
+						76,
+						71,
+						106,
+						231,
+						242,
+						173
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						411,
+						276,
+						246,
+						239,
+						408,
+						411
+					],
+					"all_points_y": [
+						120,
+						57,
+						59,
+						78,
+						175,
+						120
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						61,
+						132,
+						157,
+						157,
+						93,
+						64,
+						59
+					],
+					"all_points_y": [
+						8,
+						76,
+						75,
+						43,
+						0,
+						3,
+						8
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						188,
+						95,
+						163,
+						201,
+						198,
+						186
+					],
+					"all_points_y": [
+						62,
+						2,
+						1,
+						23,
+						66,
+						63
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						18,
+						31,
+						1,
+						1,
+						17
+					],
+					"all_points_y": [
+						69,
+						53,
+						10,
+						66,
+						69
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						77,
+						74,
+						41,
+						0,
+						1,
+						42,
+						77
+					],
+					"all_points_y": [
+						66,
+						37,
+						1,
+						2,
+						10,
+						66,
+						66
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0331_jpg.rf.96867bd8eeadb4cf9daec5ca65a0571d.jpg6766": {
+		"filename": "baguettes0331_jpg.rf.96867bd8eeadb4cf9daec5ca65a0571d.jpg",
+		"size": 6766,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						61,
+						357,
+						371,
+						352,
+						209,
+						59,
+						43,
+						63
+					],
+					"all_points_y": [
+						206,
+						206,
+						185,
+						175,
+						156,
+						168,
+						186,
+						208
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						61,
+						357,
+						371,
+						352,
+						209,
+						59,
+						43,
+						63
+					],
+					"all_points_y": [
+						206,
+						206,
+						185,
+						175,
+						156,
+						168,
+						186,
+						208
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0337_jpg.rf.6c9b5b443d748fa16c3017e76c7f3763.jpg21770": {
+		"filename": "baguettes0337_jpg.rf.6c9b5b443d748fa16c3017e76c7f3763.jpg",
+		"size": 21770,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						55,
+						136,
+						307,
+						326,
+						296,
+						170,
+						36,
+						6,
+						53
+					],
+					"all_points_y": [
+						244,
+						221,
+						131,
+						84,
+						49,
+						62,
+						114,
+						193,
+						245
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						251,
+						382,
+						399,
+						387,
+						357,
+						331,
+						185,
+						170,
+						206,
+						231,
+						252
+					],
+					"all_points_y": [
+						306,
+						191,
+						149,
+						118,
+						100,
+						105,
+						201,
+						238,
+						299,
+						318,
+						307
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						104,
+						89,
+						108,
+						129,
+						209,
+						221,
+						218,
+						201,
+						171,
+						104
+					],
+					"all_points_y": [
+						349,
+						311,
+						262,
+						228,
+						242,
+						269,
+						291,
+						337,
+						356,
+						352
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						55,
+						136,
+						307,
+						326,
+						296,
+						170,
+						36,
+						6,
+						53
+					],
+					"all_points_y": [
+						244,
+						221,
+						131,
+						84,
+						49,
+						62,
+						114,
+						193,
+						245
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						251,
+						382,
+						399,
+						387,
+						357,
+						331,
+						185,
+						170,
+						206,
+						231,
+						252
+					],
+					"all_points_y": [
+						306,
+						191,
+						149,
+						118,
+						100,
+						105,
+						201,
+						238,
+						299,
+						318,
+						307
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						104,
+						89,
+						108,
+						129,
+						209,
+						221,
+						218,
+						201,
+						171,
+						104
+					],
+					"all_points_y": [
+						349,
+						311,
+						262,
+						228,
+						242,
+						269,
+						291,
+						337,
+						356,
+						352
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0338_png.rf.b658a557d75e959a2da82c8602b8e8a4.jpg6751": {
+		"filename": "baguettes0338_png.rf.b658a557d75e959a2da82c8602b8e8a4.jpg",
+		"size": 6751,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						29,
+						78,
+						364,
+						400,
+						399,
+						351,
+						137,
+						33,
+						28
+					],
+					"all_points_y": [
+						117,
+						140,
+						142,
+						117,
+						102,
+						71,
+						64,
+						80,
+						114
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						29,
+						78,
+						364,
+						400,
+						399,
+						351,
+						137,
+						33,
+						28
+					],
+					"all_points_y": [
+						117,
+						140,
+						142,
+						117,
+						102,
+						71,
+						64,
+						80,
+						114
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0339_jpg.rf.58bbdb99f0b2866967dec7ef5e647996.jpg27937": {
+		"filename": "baguettes0339_jpg.rf.58bbdb99f0b2866967dec7ef5e647996.jpg",
+		"size": 27937,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						384,
+						249,
+						254,
+						321,
+						415,
+						414,
+						384
+					],
+					"all_points_y": [
+						414,
+						182,
+						20,
+						127,
+						312,
+						416,
+						415
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						384,
+						249,
+						254,
+						321,
+						415,
+						414,
+						384
+					],
+					"all_points_y": [
+						414,
+						182,
+						20,
+						127,
+						312,
+						416,
+						415
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0345_jpg.rf.d89962641a117022a15e4274aa44ff37.jpg28264": {
+		"filename": "baguettes0345_jpg.rf.d89962641a117022a15e4274aa44ff37.jpg",
+		"size": 28264,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						23,
+						369,
+						415,
+						413,
+						361,
+						60,
+						1,
+						2,
+						23
+					],
+					"all_points_y": [
+						266,
+						261,
+						221,
+						186,
+						162,
+						174,
+						217,
+						237,
+						265
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						36,
+						363,
+						410,
+						408,
+						352,
+						65,
+						4,
+						7,
+						37
+					],
+					"all_points_y": [
+						141,
+						145,
+						106,
+						88,
+						39,
+						50,
+						88,
+						109,
+						140
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						37,
+						328,
+						396,
+						395,
+						357,
+						32,
+						1,
+						37
+					],
+					"all_points_y": [
+						298,
+						278,
+						325,
+						350,
+						370,
+						386,
+						348,
+						298
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						23,
+						369,
+						415,
+						413,
+						361,
+						60,
+						1,
+						2,
+						23
+					],
+					"all_points_y": [
+						266,
+						261,
+						221,
+						186,
+						162,
+						174,
+						217,
+						237,
+						265
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						36,
+						363,
+						410,
+						408,
+						352,
+						65,
+						4,
+						7,
+						37
+					],
+					"all_points_y": [
+						141,
+						145,
+						106,
+						88,
+						39,
+						50,
+						88,
+						109,
+						140
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						37,
+						328,
+						396,
+						395,
+						357,
+						32,
+						1,
+						37
+					],
+					"all_points_y": [
+						298,
+						278,
+						325,
+						350,
+						370,
+						386,
+						348,
+						298
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0347_png.rf.e2b82d429050af308b0c65236009c3e2.jpg29339": {
+		"filename": "baguettes0347_png.rf.e2b82d429050af308b0c65236009c3e2.jpg",
+		"size": 29339,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						65,
+						188,
+						343,
+						337,
+						249,
+						103,
+						73,
+						67
+					],
+					"all_points_y": [
+						274,
+						134,
+						116,
+						158,
+						262,
+						316,
+						302,
+						272
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						65,
+						188,
+						343,
+						337,
+						249,
+						103,
+						73,
+						67
+					],
+					"all_points_y": [
+						274,
+						134,
+						116,
+						158,
+						262,
+						316,
+						302,
+						272
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0348_jpg.rf.c544635cd2d57e9ea63ce38a7244c317.jpg28656": {
+		"filename": "baguettes0348_jpg.rf.c544635cd2d57e9ea63ce38a7244c317.jpg",
+		"size": 28656,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						259,
+						259,
+						278,
+						298,
+						307,
+						294,
+						275,
+						259
+					],
+					"all_points_y": [
+						364,
+						39,
+						10,
+						36,
+						350,
+						392,
+						391,
+						362
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						331,
+						321,
+						335,
+						348,
+						361,
+						375,
+						359,
+						343,
+						331
+					],
+					"all_points_y": [
+						357,
+						46,
+						6,
+						9,
+						36,
+						356,
+						390,
+						390,
+						356
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						42,
+						51,
+						68,
+						89,
+						101,
+						85,
+						62,
+						41
+					],
+					"all_points_y": [
+						340,
+						38,
+						16,
+						31,
+						324,
+						396,
+						397,
+						338
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						137,
+						163,
+						155,
+						131,
+						111,
+						102,
+						112,
+						127,
+						137
+					],
+					"all_points_y": [
+						24,
+						300,
+						360,
+						360,
+						314,
+						36,
+						14,
+						14,
+						26
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						259,
+						259,
+						278,
+						298,
+						307,
+						294,
+						275,
+						259
+					],
+					"all_points_y": [
+						364,
+						39,
+						10,
+						36,
+						350,
+						392,
+						391,
+						362
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						331,
+						321,
+						335,
+						348,
+						361,
+						375,
+						359,
+						343,
+						331
+					],
+					"all_points_y": [
+						357,
+						46,
+						6,
+						9,
+						36,
+						356,
+						390,
+						390,
+						356
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						42,
+						51,
+						68,
+						89,
+						101,
+						85,
+						62,
+						41
+					],
+					"all_points_y": [
+						340,
+						38,
+						16,
+						31,
+						324,
+						396,
+						397,
+						338
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						137,
+						163,
+						155,
+						131,
+						111,
+						102,
+						112,
+						127,
+						137
+					],
+					"all_points_y": [
+						24,
+						300,
+						360,
+						360,
+						314,
+						36,
+						14,
+						14,
+						26
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0352_jpg.rf.e159e14eb7a72d42c406d686b78f0ea0.jpg29143": {
+		"filename": "baguettes0352_jpg.rf.e159e14eb7a72d42c406d686b78f0ea0.jpg",
+		"size": 29143,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						179,
+						273,
+						280,
+						266,
+						173,
+						171,
+						179
+					],
+					"all_points_y": [
+						59,
+						26,
+						16,
+						10,
+						42,
+						55,
+						60
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						207,
+						273,
+						285,
+						275,
+						241,
+						190,
+						183,
+						188,
+						208
+					],
+					"all_points_y": [
+						105,
+						81,
+						58,
+						45,
+						45,
+						67,
+						84,
+						100,
+						104
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						179,
+						273,
+						280,
+						266,
+						173,
+						171,
+						179
+					],
+					"all_points_y": [
+						59,
+						26,
+						16,
+						10,
+						42,
+						55,
+						60
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						207,
+						273,
+						285,
+						275,
+						241,
+						190,
+						183,
+						188,
+						208
+					],
+					"all_points_y": [
+						105,
+						81,
+						58,
+						45,
+						45,
+						67,
+						84,
+						100,
+						104
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0354_jpg.rf.73b0971c7c9d93da6dc38c4315eb8bf0.jpg23437": {
+		"filename": "baguettes0354_jpg.rf.73b0971c7c9d93da6dc38c4315eb8bf0.jpg",
+		"size": 23437,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						241,
+						59,
+						46,
+						77,
+						198,
+						395,
+						239
+					],
+					"all_points_y": [
+						2,
+						291,
+						373,
+						403,
+						355,
+						0,
+						1
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						413,
+						245,
+						233,
+						251,
+						414,
+						414
+					],
+					"all_points_y": [
+						164,
+						293,
+						322,
+						347,
+						310,
+						164
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						241,
+						59,
+						46,
+						77,
+						198,
+						395,
+						239
+					],
+					"all_points_y": [
+						2,
+						291,
+						373,
+						403,
+						355,
+						0,
+						1
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						413,
+						245,
+						233,
+						251,
+						414,
+						414
+					],
+					"all_points_y": [
+						164,
+						293,
+						322,
+						347,
+						310,
+						164
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0357_jpg.rf.f80066f5cd39b99da1c21e14af82e47c.jpg29658": {
+		"filename": "baguettes0357_jpg.rf.f80066f5cd39b99da1c21e14af82e47c.jpg",
+		"size": 29658,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						415,
+						149,
+						64,
+						21,
+						47,
+						289,
+						414,
+						415
+					],
+					"all_points_y": [
+						37,
+						210,
+						229,
+						191,
+						134,
+						2,
+						2,
+						36
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						411,
+						157,
+						199,
+						415,
+						413
+					],
+					"all_points_y": [
+						82,
+						221,
+						318,
+						216,
+						82
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						3,
+						151,
+						191,
+						57,
+						2,
+						2
+					],
+					"all_points_y": [
+						310,
+						271,
+						382,
+						415,
+						414,
+						308
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						415,
+						149,
+						64,
+						21,
+						47,
+						289,
+						414,
+						415
+					],
+					"all_points_y": [
+						37,
+						210,
+						229,
+						191,
+						134,
+						2,
+						2,
+						36
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						411,
+						157,
+						199,
+						415,
+						413
+					],
+					"all_points_y": [
+						82,
+						221,
+						318,
+						216,
+						82
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						3,
+						151,
+						191,
+						57,
+						2,
+						2
+					],
+					"all_points_y": [
+						310,
+						271,
+						382,
+						415,
+						414,
+						308
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0360_jpg.rf.48b6256ed1e19a6dd4e119aa418be453.jpg26899": {
+		"filename": "baguettes0360_jpg.rf.48b6256ed1e19a6dd4e119aa418be453.jpg",
+		"size": 26899,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						56,
+						61,
+						83,
+						125,
+						137,
+						126,
+						102,
+						34,
+						55
+					],
+					"all_points_y": [
+						255,
+						95,
+						64,
+						70,
+						94,
+						290,
+						392,
+						391,
+						271
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						182,
+						217,
+						196,
+						164,
+						133,
+						127,
+						101,
+						175
+					],
+					"all_points_y": [
+						349,
+						136,
+						115,
+						116,
+						154,
+						293,
+						389,
+						370
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						207,
+						174,
+						216,
+						246,
+						212,
+						206
+					],
+					"all_points_y": [
+						234,
+						374,
+						371,
+						287,
+						224,
+						236
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						224,
+						213,
+						196,
+						163,
+						144,
+						172,
+						203,
+						225
+					],
+					"all_points_y": [
+						74,
+						133,
+						113,
+						115,
+						139,
+						68,
+						62,
+						74
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						56,
+						61,
+						83,
+						125,
+						137,
+						126,
+						102,
+						34,
+						55
+					],
+					"all_points_y": [
+						255,
+						95,
+						64,
+						70,
+						94,
+						290,
+						392,
+						391,
+						271
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						182,
+						217,
+						196,
+						164,
+						133,
+						127,
+						101,
+						175
+					],
+					"all_points_y": [
+						349,
+						136,
+						115,
+						116,
+						154,
+						293,
+						389,
+						370
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						207,
+						174,
+						216,
+						246,
+						212,
+						206
+					],
+					"all_points_y": [
+						234,
+						374,
+						371,
+						287,
+						224,
+						236
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						224,
+						213,
+						196,
+						163,
+						144,
+						172,
+						203,
+						225
+					],
+					"all_points_y": [
+						74,
+						133,
+						113,
+						115,
+						139,
+						68,
+						62,
+						74
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0363_jpg.rf.31c82da5c91aa97f82c43f907d93b336.jpg41051": {
+		"filename": "baguettes0363_jpg.rf.31c82da5c91aa97f82c43f907d93b336.jpg",
+		"size": 41051,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						46,
+						227,
+						306,
+						360,
+						355,
+						203,
+						101,
+						66,
+						42,
+						47
+					],
+					"all_points_y": [
+						94,
+						345,
+						406,
+						362,
+						271,
+						91,
+						7,
+						18,
+						60,
+						94
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						46,
+						227,
+						306,
+						360,
+						355,
+						203,
+						101,
+						66,
+						42,
+						47
+					],
+					"all_points_y": [
+						94,
+						345,
+						406,
+						362,
+						271,
+						91,
+						7,
+						18,
+						60,
+						94
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0365_jpg.rf.84c3c6cd935397a947c092cb756a641b.jpg24536": {
+		"filename": "baguettes0365_jpg.rf.84c3c6cd935397a947c092cb756a641b.jpg",
+		"size": 24536,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						150,
+						127,
+						147,
+						181,
+						249,
+						304,
+						322,
+						316,
+						270,
+						195,
+						150
+					],
+					"all_points_y": [
+						357,
+						176,
+						20,
+						4,
+						22,
+						141,
+						239,
+						374,
+						410,
+						411,
+						356
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						150,
+						127,
+						147,
+						181,
+						249,
+						304,
+						322,
+						316,
+						270,
+						195,
+						150
+					],
+					"all_points_y": [
+						357,
+						176,
+						20,
+						4,
+						22,
+						141,
+						239,
+						374,
+						410,
+						411,
+						356
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0373_jpg.rf.817cf3f9c59ec2de1b76aa766519c733.jpg31093": {
+		"filename": "baguettes0373_jpg.rf.817cf3f9c59ec2de1b76aa766519c733.jpg",
+		"size": 31093,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						0,
+						289,
+						343,
+						343,
+						41,
+						2,
+						2
+					],
+					"all_points_y": [
+						285,
+						412,
+						412,
+						380,
+						242,
+						246,
+						288
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						260,
+						327,
+						343,
+						387,
+						403,
+						331,
+						294,
+						264,
+						259
+					],
+					"all_points_y": [
+						188,
+						376,
+						381,
+						377,
+						355,
+						164,
+						150,
+						161,
+						192
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						0,
+						289,
+						343,
+						343,
+						41,
+						2,
+						2
+					],
+					"all_points_y": [
+						285,
+						412,
+						412,
+						380,
+						242,
+						246,
+						288
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						260,
+						327,
+						343,
+						387,
+						403,
+						331,
+						294,
+						264,
+						259
+					],
+					"all_points_y": [
+						188,
+						376,
+						381,
+						377,
+						355,
+						164,
+						150,
+						161,
+						192
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0374_jpg.rf.3ad8874452243123fc4a3fffed59ad63.jpg27690": {
+		"filename": "baguettes0374_jpg.rf.3ad8874452243123fc4a3fffed59ad63.jpg",
+		"size": 27690,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						414,
+						391,
+						364,
+						325,
+						321,
+						389,
+						413,
+						415
+					],
+					"all_points_y": [
+						178,
+						68,
+						46,
+						58,
+						110,
+						391,
+						415,
+						178
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						155,
+						185,
+						309,
+						349,
+						355,
+						343,
+						265,
+						156
+					],
+					"all_points_y": [
+						412,
+						364,
+						185,
+						196,
+						244,
+						284,
+						415,
+						412
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						414,
+						391,
+						364,
+						325,
+						321,
+						389,
+						413,
+						415
+					],
+					"all_points_y": [
+						178,
+						68,
+						46,
+						58,
+						110,
+						391,
+						415,
+						178
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						155,
+						185,
+						309,
+						349,
+						355,
+						343,
+						265,
+						156
+					],
+					"all_points_y": [
+						412,
+						364,
+						185,
+						196,
+						244,
+						284,
+						415,
+						412
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0384_jpg.rf.400e342440b091a9fabdd08a414e6249.jpg19234": {
+		"filename": "baguettes0384_jpg.rf.400e342440b091a9fabdd08a414e6249.jpg",
+		"size": 19234,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						117,
+						347,
+						369,
+						175,
+						89,
+						117
+					],
+					"all_points_y": [
+						170,
+						197,
+						276,
+						288,
+						208,
+						168
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						117,
+						347,
+						369,
+						175,
+						89,
+						117
+					],
+					"all_points_y": [
+						170,
+						197,
+						276,
+						288,
+						208,
+						168
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0390_jpg.rf.dea911da9e520fb9c541d9fc75a5a9ea.jpg10608": {
+		"filename": "baguettes0390_jpg.rf.dea911da9e520fb9c541d9fc75a5a9ea.jpg",
+		"size": 10608,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						74,
+						197,
+						368,
+						374,
+						358,
+						315,
+						287,
+						69,
+						30,
+						50,
+						75
+					],
+					"all_points_y": [
+						300,
+						272,
+						218,
+						184,
+						149,
+						140,
+						140,
+						202,
+						242,
+						297,
+						300
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						74,
+						197,
+						368,
+						374,
+						358,
+						315,
+						287,
+						69,
+						30,
+						50,
+						75
+					],
+					"all_points_y": [
+						300,
+						272,
+						218,
+						184,
+						149,
+						140,
+						140,
+						202,
+						242,
+						297,
+						300
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0391_jpg.rf.42046bb04555de562372d27a8aebb52f.jpg33311": {
+		"filename": "baguettes0391_jpg.rf.42046bb04555de562372d27a8aebb52f.jpg",
+		"size": 33311,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						22,
+						63,
+						366,
+						371,
+						226,
+						23,
+						4,
+						22
+					],
+					"all_points_y": [
+						174,
+						174,
+						15,
+						0,
+						0,
+						104,
+						141,
+						172
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						401,
+						265,
+						323,
+						415,
+						415,
+						401
+					],
+					"all_points_y": [
+						33,
+						136,
+						191,
+						107,
+						34,
+						34
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						271,
+						311,
+						295,
+						264,
+						250,
+						263,
+						271
+					],
+					"all_points_y": [
+						335,
+						254,
+						214,
+						253,
+						302,
+						339,
+						334
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						185,
+						161,
+						169,
+						202,
+						218,
+						208,
+						191,
+						184
+					],
+					"all_points_y": [
+						273,
+						190,
+						174,
+						192,
+						238,
+						276,
+						285,
+						272
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						208,
+						239,
+						263,
+						259,
+						245,
+						210,
+						204,
+						185,
+						209
+					],
+					"all_points_y": [
+						168,
+						176,
+						211,
+						236,
+						246,
+						214,
+						192,
+						183,
+						168
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						195,
+						221,
+						247,
+						275,
+						260,
+						240,
+						208,
+						203,
+						191,
+						196
+					],
+					"all_points_y": [
+						143,
+						129,
+						140,
+						190,
+						203,
+						174,
+						167,
+						171,
+						164,
+						142
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						259,
+						244,
+						289,
+						312,
+						278,
+						258
+					],
+					"all_points_y": [
+						129,
+						138,
+						212,
+						200,
+						151,
+						130
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						22,
+						63,
+						366,
+						371,
+						226,
+						23,
+						4,
+						22
+					],
+					"all_points_y": [
+						174,
+						174,
+						15,
+						0,
+						0,
+						104,
+						141,
+						172
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						401,
+						265,
+						323,
+						415,
+						415,
+						401
+					],
+					"all_points_y": [
+						33,
+						136,
+						191,
+						107,
+						34,
+						34
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						271,
+						311,
+						295,
+						264,
+						250,
+						263,
+						271
+					],
+					"all_points_y": [
+						335,
+						254,
+						214,
+						253,
+						302,
+						339,
+						334
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						185,
+						161,
+						169,
+						202,
+						218,
+						208,
+						191,
+						184
+					],
+					"all_points_y": [
+						273,
+						190,
+						174,
+						192,
+						238,
+						276,
+						285,
+						272
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						208,
+						239,
+						263,
+						259,
+						245,
+						210,
+						204,
+						185,
+						209
+					],
+					"all_points_y": [
+						168,
+						176,
+						211,
+						236,
+						246,
+						214,
+						192,
+						183,
+						168
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						195,
+						221,
+						247,
+						275,
+						260,
+						240,
+						208,
+						203,
+						191,
+						196
+					],
+					"all_points_y": [
+						143,
+						129,
+						140,
+						190,
+						203,
+						174,
+						167,
+						171,
+						164,
+						142
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						259,
+						244,
+						289,
+						312,
+						278,
+						258
+					],
+					"all_points_y": [
+						129,
+						138,
+						212,
+						200,
+						151,
+						130
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0392_jpg.rf.3627226a764c7b34b601d9b34fe1af0c.jpg19670": {
+		"filename": "baguettes0392_jpg.rf.3627226a764c7b34b601d9b34fe1af0c.jpg",
+		"size": 19670,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						39,
+						161,
+						365,
+						401,
+						415,
+						413,
+						387,
+						353,
+						0,
+						3,
+						18,
+						38
+					],
+					"all_points_y": [
+						394,
+						322,
+						155,
+						115,
+						69,
+						29,
+						2,
+						4,
+						283,
+						346,
+						377,
+						394
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						39,
+						161,
+						365,
+						401,
+						415,
+						413,
+						387,
+						353,
+						0,
+						3,
+						18,
+						38
+					],
+					"all_points_y": [
+						394,
+						322,
+						155,
+						115,
+						69,
+						29,
+						2,
+						4,
+						283,
+						346,
+						377,
+						394
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0394_jpg.rf.5d08453d9409bb310b5c82654ba7cf63.jpg23777": {
+		"filename": "baguettes0394_jpg.rf.5d08453d9409bb310b5c82654ba7cf63.jpg",
+		"size": 23777,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						99,
+						31,
+						1,
+						1,
+						61,
+						183,
+						97
+					],
+					"all_points_y": [
+						339,
+						414,
+						414,
+						147,
+						2,
+						1,
+						338
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						176,
+						175,
+						144,
+						181,
+						231,
+						279,
+						314,
+						292,
+						216,
+						174
+					],
+					"all_points_y": [
+						285,
+						219,
+						153,
+						86,
+						84,
+						143,
+						218,
+						260,
+						310,
+						284
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						413,
+						233,
+						144,
+						114,
+						365,
+						415,
+						415
+					],
+					"all_points_y": [
+						266,
+						342,
+						300,
+						268,
+						152,
+						148,
+						265
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						99,
+						31,
+						1,
+						1,
+						61,
+						183,
+						97
+					],
+					"all_points_y": [
+						339,
+						414,
+						414,
+						147,
+						2,
+						1,
+						338
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						176,
+						175,
+						144,
+						181,
+						231,
+						279,
+						314,
+						292,
+						216,
+						174
+					],
+					"all_points_y": [
+						285,
+						219,
+						153,
+						86,
+						84,
+						143,
+						218,
+						260,
+						310,
+						284
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						413,
+						233,
+						144,
+						114,
+						365,
+						415,
+						415
+					],
+					"all_points_y": [
+						266,
+						342,
+						300,
+						268,
+						152,
+						148,
+						265
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0396_jpg.rf.061cbaadba1b72ee502d7f28549fb6e4.jpg18129": {
+		"filename": "baguettes0396_jpg.rf.061cbaadba1b72ee502d7f28549fb6e4.jpg",
+		"size": 18129,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						412,
+						93,
+						55,
+						55,
+						101,
+						181,
+						414,
+						413
+					],
+					"all_points_y": [
+						111,
+						123,
+						150,
+						187,
+						211,
+						228,
+						227,
+						112
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						48,
+						79,
+						183,
+						130,
+						102,
+						100,
+						55,
+						47
+					],
+					"all_points_y": [
+						242,
+						206,
+						230,
+						236,
+						267,
+						282,
+						267,
+						243
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						413,
+						143,
+						97,
+						103,
+						131,
+						187,
+						413,
+						413
+					],
+					"all_points_y": [
+						323,
+						316,
+						288,
+						266,
+						236,
+						230,
+						227,
+						326
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						412,
+						93,
+						55,
+						55,
+						101,
+						181,
+						414,
+						413
+					],
+					"all_points_y": [
+						111,
+						123,
+						150,
+						187,
+						211,
+						228,
+						227,
+						112
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						48,
+						79,
+						183,
+						130,
+						102,
+						100,
+						55,
+						47
+					],
+					"all_points_y": [
+						242,
+						206,
+						230,
+						236,
+						267,
+						282,
+						267,
+						243
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						413,
+						143,
+						97,
+						103,
+						131,
+						187,
+						413,
+						413
+					],
+					"all_points_y": [
+						323,
+						316,
+						288,
+						266,
+						236,
+						230,
+						227,
+						326
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	},
+	"baguettes0399_jpg.rf.8b4b90424e8b40236a6b3efcf2df4279.jpg35788": {
+		"filename": "baguettes0399_jpg.rf.8b4b90424e8b40236a6b3efcf2df4279.jpg",
+		"size": 35788,
+		"regions": [
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						9,
+						11,
+						53,
+						110,
+						131,
+						126,
+						113,
+						117,
+						101,
+						8
+					],
+					"all_points_y": [
+						408,
+						257,
+						161,
+						119,
+						124,
+						140,
+						306,
+						350,
+						414,
+						409
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						207,
+						238,
+						237,
+						249,
+						249,
+						224,
+						183,
+						151,
+						130,
+						125,
+						113,
+						117,
+						101,
+						207
+					],
+					"all_points_y": [
+						414,
+						294,
+						202,
+						174,
+						91,
+						48,
+						42,
+						58,
+						124,
+						138,
+						307,
+						352,
+						414,
+						414
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						381,
+						317,
+						249,
+						237,
+						237,
+						223,
+						255,
+						381
+					],
+					"all_points_y": [
+						413,
+						266,
+						176,
+						196,
+						295,
+						342,
+						414,
+						414
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						415,
+						359,
+						309,
+						253,
+						221,
+						251,
+						249,
+						320,
+						381,
+						414,
+						415
+					],
+					"all_points_y": [
+						230,
+						119,
+						56,
+						36,
+						47,
+						93,
+						177,
+						270,
+						416,
+						414,
+						229
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						9,
+						11,
+						53,
+						110,
+						131,
+						126,
+						113,
+						117,
+						101,
+						8
+					],
+					"all_points_y": [
+						408,
+						257,
+						161,
+						119,
+						124,
+						140,
+						306,
+						350,
+						414,
+						409
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						207,
+						238,
+						237,
+						249,
+						249,
+						224,
+						183,
+						151,
+						130,
+						125,
+						113,
+						117,
+						101,
+						207
+					],
+					"all_points_y": [
+						414,
+						294,
+						202,
+						174,
+						91,
+						48,
+						42,
+						58,
+						124,
+						138,
+						307,
+						352,
+						414,
+						414
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						381,
+						317,
+						249,
+						237,
+						237,
+						223,
+						255,
+						381
+					],
+					"all_points_y": [
+						413,
+						266,
+						176,
+						196,
+						295,
+						342,
+						414,
+						414
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			},
+			{
+				"shape_attributes": {
+					"name": "polyline",
+					"all_points_x": [
+						415,
+						359,
+						309,
+						253,
+						221,
+						251,
+						249,
+						320,
+						381,
+						414,
+						415
+					],
+					"all_points_y": [
+						230,
+						119,
+						56,
+						36,
+						47,
+						93,
+						177,
+						270,
+						416,
+						414,
+						229
+					]
+				},
+				"region_attributes": {
+					"name": "baguette",
+					"type": "unknown",
+					"image_quality": {
+						"good": true,
+						"frontal": true,
+						"good_illumination": true
+					}
+				}
+			}
+		],
+		"file_attributes": {
+			"caption": "",
+			"public_domain": "no",
+			"image_url": ""
+		}
+	}
+}
