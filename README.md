@@ -19,6 +19,7 @@ Analyse :
 Des trois cas ci-dessus, l'utilisation de 20 epochs est plus adaptée car c'est le cas avec le loss le plus bas sans pour autant qu'il y ait une grande différence avec le val_loss. On peut le voir avec les résultats ci-dessous.
 
 Résultats (Epochs 10, 20 puis 30) : 
+
 ![Capture11](https://github.com/user-attachments/assets/552a80a9-8747-4d30-bc20-c14ebf8b6d3b)
 ![Captureia11](https://github.com/user-attachments/assets/090a8765-7a0c-40fb-b9fb-2e6587f55c49)
 ![Capture11](https://github.com/user-attachments/assets/07c60074-23e0-4a11-9e3e-da62d550f58d)
@@ -26,12 +27,6 @@ Résultats (Epochs 10, 20 puis 30) :
 ![Capture10](https://github.com/user-attachments/assets/415326dc-9562-4ca1-a435-5e868c3fedd3)
 ![Captureia10](https://github.com/user-attachments/assets/20c3dd5e-6655-42fd-a083-dbfce1c2ba96)
 ![Capture10](https://github.com/user-attachments/assets/bdbd497b-9db2-4d73-bbb8-c2eef2fef928)
-
-
-![Capture9](https://github.com/user-attachments/assets/72052aba-5466-4248-8b51-c6b05942a1c8)
-![Captureia9](https://github.com/user-attachments/assets/59a72998-1f5b-4d75-8a90-6a3fafb19eeb)
-![Capture9](https://github.com/user-attachments/assets/37e8d11f-495d-433a-bfbe-f97f62a2054c)
-
 
 ![Capture8](https://github.com/user-attachments/assets/98c08497-b9a0-46af-9fa3-0a1be992ac23)
 ![Captureia8](https://github.com/user-attachments/assets/0f475bcf-8e17-4a4b-9c60-fa5299117be0)
