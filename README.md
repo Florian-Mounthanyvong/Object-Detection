@@ -6,6 +6,20 @@ Fichiers de log:
 
 ![Captureia10](https://github.com/user-attachments/assets/facea24e-9b39-4390-b59e-e0c8bdd95516)
 
+20 Epochs :
+
+![Captureia20](https://github.com/user-attachments/assets/0a9a6068-b691-4c58-90a2-24c63b19bb63)
+
+30 Epochs avec une image de validation non labelisée :
+
+![Captureiabis](https://github.com/user-attachments/assets/884250e7-11f9-4865-8f50-d11fa3286de2)
+
+Analyse : 
+
+Des trois cas ci-dessus, l'utilisation de 20 epochs est plus adaptée car c'est le cas avec le loss le plus bas sans pour autant qu'il y ait une grande différence avec le val_loss. On peut le voir avec les résultats ci-dessous.
+
+Résultats : 
+
 ![Capture1](https://github.com/user-attachments/assets/8964b843-c077-4047-b7f2-c8ec7ec1f6e4)
 ![Capture12](https://github.com/user-attachments/assets/cd63b098-171e-4db0-907d-a710dba57f46)
 ![Capture11](https://github.com/user-attachments/assets/e79ed04c-3599-4fee-a1d1-6269ef5c5211)
@@ -16,10 +30,6 @@ Fichiers de log:
 ![Capture5](https://github.com/user-attachments/assets/109d9342-3629-41ed-a0ea-ecf9633c946c)
 ![Capture4](https://github.com/user-attachments/assets/7dc09b0c-66fe-4641-a810-6616c6bc7612)
 
-
-20 Epochs :
-
-![Captureia20](https://github.com/user-attachments/assets/0a9a6068-b691-4c58-90a2-24c63b19bb63)
 ![Captureia17](https://github.com/user-attachments/assets/bf2eb9b8-cff9-4a5f-81cd-30e63cda2af7)
 ![Captureia16](https://github.com/user-attachments/assets/f55d2e45-b54a-401b-949c-69f5de4f0a93)
 ![Captureia15](https://github.com/user-attachments/assets/187817a3-e6ee-4e64-a75a-7a2880acc284)
@@ -30,11 +40,6 @@ Fichiers de log:
 ![Captureia5](https://github.com/user-attachments/assets/63a05145-a58a-4045-8c1a-bbc8265846ef)
 ![Captureia4](https://github.com/user-attachments/assets/c2f6a990-483d-4820-8dfd-7e9f1de1c983)
 
-
-
-30 Epochs avec une image de validation non labelisée :
-
-![Captureiabis](https://github.com/user-attachments/assets/884250e7-11f9-4865-8f50-d11fa3286de2)
 ![Capture12](https://github.com/user-attachments/assets/c9cc98a6-f189-43a2-be7e-4df2cd863598)
 ![Capture11](https://github.com/user-attachments/assets/c1857e8e-8e5f-401c-8d36-2618f3505610)
 ![Capture10](https://github.com/user-attachments/assets/b0107663-c294-4361-a7ba-69a7b61aa340)
