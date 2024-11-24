@@ -1,7 +1,21 @@
 # Object-Detection
 
-Suite à de nombreux problèmes, je n'ai réussi à faire marcher Mask_RCNN qu'à 19h10 le 11/11/2024 et à lancer mon premier entrainement vers 21h. Le programme est actuellement toujours en train de tourner. Je ne pourrai donc pas vous fournir beaucoup de données en testant avec d'autres paramètres comme le nombre d'epochs, l'activation utilisée, le learning rate ou encore l'optimizer. Je ne sais pas si j'aurai même le temps de faire la matrice de confusion. Je peux néanmoins vous fournir le dataset construit et utilisé à temps.
+Fichiers de log:
 
+10 Epochs :
+
+![Captureia10](https://github.com/user-attachments/assets/facea24e-9b39-4390-b59e-e0c8bdd95516)
+
+20 Epochs :
+
+![Captureia20](https://github.com/user-attachments/assets/0a9a6068-b691-4c58-90a2-24c63b19bb63)
+
+30 Epochs avec une image de validation non labelisée :
+
+![Captureiabis](https://github.com/user-attachments/assets/884250e7-11f9-4865-8f50-d11fa3286de2)
+
+
+Résultats :
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
