@@ -18,38 +18,49 @@ Analyse :
 
 Des trois cas ci-dessus, l'utilisation de 20 epochs est plus adaptée car c'est le cas avec le loss le plus bas sans pour autant qu'il y ait une grande différence avec le val_loss. On peut le voir avec les résultats ci-dessous.
 
-Résultats : 
+Résultats (Epochs 10, 20 puis 30) : 
+![Capture11](https://github.com/user-attachments/assets/552a80a9-8747-4d30-bc20-c14ebf8b6d3b)
+![Captureia11](https://github.com/user-attachments/assets/090a8765-7a0c-40fb-b9fb-2e6587f55c49)
+![Capture11](https://github.com/user-attachments/assets/07c60074-23e0-4a11-9e3e-da62d550f58d)
 
-![Capture1](https://github.com/user-attachments/assets/8964b843-c077-4047-b7f2-c8ec7ec1f6e4)
-![Capture12](https://github.com/user-attachments/assets/cd63b098-171e-4db0-907d-a710dba57f46)
-![Capture11](https://github.com/user-attachments/assets/e79ed04c-3599-4fee-a1d1-6269ef5c5211)
-![Capture10](https://github.com/user-attachments/assets/12d16609-2a2c-4ede-a47c-b908a6e4bf02)
-![Capture9](https://github.com/user-attachments/assets/15b41270-606f-47c5-a222-743277161db1)
-![Capture8](https://github.com/user-attachments/assets/99da8755-6510-48e0-b291-52b47d3b9d81)
-![Capture7](https://github.com/user-attachments/assets/4dc4bed4-0bf8-4361-8865-f6233d044724)
-![Capture5](https://github.com/user-attachments/assets/109d9342-3629-41ed-a0ea-ecf9633c946c)
-![Capture4](https://github.com/user-attachments/assets/7dc09b0c-66fe-4641-a810-6616c6bc7612)
-EPOCH 20
-![Captureia17](https://github.com/user-attachments/assets/bf2eb9b8-cff9-4a5f-81cd-30e63cda2af7)
-![Captureia16](https://github.com/user-attachments/assets/f55d2e45-b54a-401b-949c-69f5de4f0a93)
-![Captureia15](https://github.com/user-attachments/assets/187817a3-e6ee-4e64-a75a-7a2880acc284)
-![Captureia14](https://github.com/user-attachments/assets/05ff4825-2183-4d5d-9c02-4b5b0356316f)
-![Captureia13](https://github.com/user-attachments/assets/60cce9a0-faf6-4cfa-b5f0-0399a2c78cd7)
-![Captureia11](https://github.com/user-attachments/assets/734df540-28e1-485a-a229-99486da38d6f)
-![Captureia6](https://github.com/user-attachments/assets/10d56baf-9e21-4061-b51f-1b69fed03fdb)
-![Captureia5](https://github.com/user-attachments/assets/63a05145-a58a-4045-8c1a-bbc8265846ef)
-![Captureia4](https://github.com/user-attachments/assets/c2f6a990-483d-4820-8dfd-7e9f1de1c983)
-EPOCH 30
-![Capture12](https://github.com/user-attachments/assets/c9cc98a6-f189-43a2-be7e-4df2cd863598)
-![Capture11](https://github.com/user-attachments/assets/c1857e8e-8e5f-401c-8d36-2618f3505610)
-![Capture10](https://github.com/user-attachments/assets/b0107663-c294-4361-a7ba-69a7b61aa340)
-![Capture9](https://github.com/user-attachments/assets/09c4bf6a-bfdd-415a-a07a-0800621f0d27)
-![Capture8](https://github.com/user-attachments/assets/f6bb052f-127e-46e4-860f-7f4d9dcf6888)
-![Capture7](https://github.com/user-attachments/assets/94ae447d-bacc-45fa-8ec4-eef4ec20aeb4)
-![Capture5](https://github.com/user-attachments/assets/b4467bc7-66bc-4871-9bbd-8ba9582f3b6b)
-![Capture4](https://github.com/user-attachments/assets/d613be25-0667-4ba3-9063-c38f009624a8)
-![Capture3](https://github.com/user-attachments/assets/c52d108a-28b1-46b0-b5d9-bcc979ed5d2a)
+![Capture10](https://github.com/user-attachments/assets/415326dc-9562-4ca1-a435-5e868c3fedd3)
+![Captureia10](https://github.com/user-attachments/assets/20c3dd5e-6655-42fd-a083-dbfce1c2ba96)
+![Capture10](https://github.com/user-attachments/assets/bdbd497b-9db2-4d73-bbb8-c2eef2fef928)
 
+
+![Capture9](https://github.com/user-attachments/assets/72052aba-5466-4248-8b51-c6b05942a1c8)
+![Captureia9](https://github.com/user-attachments/assets/59a72998-1f5b-4d75-8a90-6a3fafb19eeb)
+![Capture9](https://github.com/user-attachments/assets/37e8d11f-495d-433a-bfbe-f97f62a2054c)
+
+
+![Capture8](https://github.com/user-attachments/assets/98c08497-b9a0-46af-9fa3-0a1be992ac23)
+![Captureia8](https://github.com/user-attachments/assets/0f475bcf-8e17-4a4b-9c60-fa5299117be0)
+![Capture8](https://github.com/user-attachments/assets/3f63cbe5-c6a0-4fa6-9443-5b94a6cb7f39)
+
+
+![Capture7](https://github.com/user-attachments/assets/df16b1c0-04eb-4512-88c5-688a05487fcd)
+![Captureia7](https://github.com/user-attachments/assets/b27f726e-1851-4d3b-8b27-b2b7be98b25f)
+![Capture7](https://github.com/user-attachments/assets/8a997f83-20f0-4996-963b-eba6b07c7019)
+
+
+![Capture6](https://github.com/user-attachments/assets/b6c50ea5-ca73-4b24-979c-98f973ca53a7)
+![Captureia6](https://github.com/user-attachments/assets/ac2c5cc9-3fb2-490d-90a8-c72e9d08ea70)
+![Capture6](https://github.com/user-attachments/assets/13878e0f-7a85-4631-8c94-e0078651cffb)
+
+
+![Capture4](https://github.com/user-attachments/assets/6cdaab03-db11-4780-ad46-01de5c062002)
+![Captureia4](https://github.com/user-attachments/assets/13df48f5-26e0-4e11-9e80-0f5ae60b57c4)
+![Capture4](https://github.com/user-attachments/assets/05862882-4c35-4425-ba52-512bbdf5a45d)
+
+
+![Capture3](https://github.com/user-attachments/assets/d7e71e87-3755-454f-90c9-604106a0b526)
+![Captureia3](https://github.com/user-attachments/assets/681906fb-01f5-4661-be4a-b1017330c20c)
+![Capture3](https://github.com/user-attachments/assets/7f5edf28-ca1a-4bae-bd38-c0db6ef832ce)
+
+
+![Capture1](https://github.com/user-attachments/assets/ff843a35-62a5-4801-b8a7-5d83b83e9486)
+![Captureia1](https://github.com/user-attachments/assets/9d35ac84-e37b-43aa-a250-da2614e60383)
+![Capture1](https://github.com/user-attachments/assets/bab769da-77d7-4f95-9e85-e0ecfa44e754)
 
 Les résultats sont globalement bons mais il y a des problèmes.
 Les problèmes sont variés : 
