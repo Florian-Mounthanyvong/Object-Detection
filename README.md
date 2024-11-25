@@ -18,7 +18,7 @@ Fichiers de log:
 
 Analyse : 
 
-Des trois cas ci-dessus, l'utilisation de 20 epochs est plus adaptée car c'est le cas avec le loss le plus bas sans pour autant qu'il y ait une grande différence avec le val_loss. On peut le voir avec les résultats ci-dessous.
+Dans les trois cas, nous sommes en situation d'overfitting. L'utilisation de 20 epochs est plus adaptée car c'est le cas avec le loss le plus bas sans pour autant qu'il y ait une trop grande différence avec le val_loss. On peut le voir avec les résultats ci-dessous.
 
 Résultats (Epochs 10, 20 puis 30) : 
 
@@ -67,7 +67,14 @@ Non détection de baguettes dans l'image, détection partielle de la baguette, d
 Je soupçonne ma labelisation d'en être la cause principale.
 
 5 Epochs avec optimizer Adam, learning rate 0.001 : 
+
 ![image](https://github.com/user-attachments/assets/89124ee8-71b5-4587-b281-7ebcb42ecf24)
 
+Ici, nous avons des erreurs. On va alors tester avec une autre valeur de learning rate
+
 5 Epochs avec optimizer Adam, learning rate 0.0001 :
+
+![image](https://github.com/user-attachments/assets/798f21ec-7511-4ec3-999d-9bc7aeabe427)
+
+Ici, nous sommes dans un cas d'underfitting, qui peut être causé par le nombre d'epochs trop bas. Il faudrait tester avec plus d'epochs.
 
