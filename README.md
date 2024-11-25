@@ -14,6 +14,10 @@ Fichiers de log:
 
 ![Captureiabis](https://github.com/user-attachments/assets/884250e7-11f9-4865-8f50-d11fa3286de2)
 
+5 Epochs avec optimizer Adam, learning rate 0.001 : 
+![image](https://github.com/user-attachments/assets/89124ee8-71b5-4587-b281-7ebcb42ecf24)
+
+
 Analyse : 
 
 Des trois cas ci-dessus, l'utilisation de 20 epochs est plus adaptée car c'est le cas avec le loss le plus bas sans pour autant qu'il y ait une grande différence avec le val_loss. On peut le voir avec les résultats ci-dessous.
