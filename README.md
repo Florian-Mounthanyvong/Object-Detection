@@ -14,10 +14,6 @@ Fichiers de log:
 
 ![Captureiabis](https://github.com/user-attachments/assets/884250e7-11f9-4865-8f50-d11fa3286de2)
 
-5 Epochs avec optimizer Adam, learning rate 0.001 : 
-![image](https://github.com/user-attachments/assets/89124ee8-71b5-4587-b281-7ebcb42ecf24)
-
-
 Analyse : 
 
 Des trois cas ci-dessus, l'utilisation de 20 epochs est plus adaptée car c'est le cas avec le loss le plus bas sans pour autant qu'il y ait une grande différence avec le val_loss. On peut le voir avec les résultats ci-dessous.
@@ -67,3 +63,6 @@ Les problèmes sont variés :
 Non détection de baguettes dans l'image, détection partielle de la baguette, détection parfaite d'une baguette mais partielle pour les autres dans l'image, détection d'une baguette sur une image de croissant, fusion de baguettes, détection de plusieurs baguettes dans une seule
 
 Je soupçonne ma labelisation d'en être la cause principale.
+
+5 Epochs avec optimizer Adam, learning rate 0.001 : 
+![image](https://github.com/user-attachments/assets/89124ee8-71b5-4587-b281-7ebcb42ecf24)
