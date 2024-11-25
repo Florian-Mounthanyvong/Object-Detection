@@ -1,5 +1,7 @@
 # Object-Detection
 
+Suite à de nombreux problèmes, je n'ai réussi à faire marcher Mask_RCNN que via TensorFlow 2.0.
+
 Fichiers de log:
 
 10 Epochs :
@@ -66,3 +68,6 @@ Je soupçonne ma labelisation d'en être la cause principale.
 
 5 Epochs avec optimizer Adam, learning rate 0.001 : 
 ![image](https://github.com/user-attachments/assets/89124ee8-71b5-4587-b281-7ebcb42ecf24)
+
+5 Epochs avec optimizer Adam, learning rate 0.0001 :
+
